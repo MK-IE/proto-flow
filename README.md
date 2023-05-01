@@ -23,6 +23,6 @@ Getting Started
 Contributing
 
 We welcome and encourage contributions from the community. Whether you're a designer, developer, or just someone with a passion for making design tools more accessible, your input is valued. Please check our contributing guidelines for more information on how to get involved. License
-ProtoFlow is released under the MIT License, ensuring a free and open platform for everyone to use and contribute to. Support and Community
+ProtoFlow is released under the GPL-3.0 License, ensuring a free and open platform for everyone to use and contribute to. Support and Community
 For support, questions, or just to connect with other ProtoFlow users and contributors, join our community on Discord or follow us on Twitter.
 Let's create amazing designs together with ProtoFlow!
