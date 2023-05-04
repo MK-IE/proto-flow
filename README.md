@@ -1,7 +1,9 @@
 
 # ProtoFlow
 
+
 ProtoFlow is a powerful and user-friendly open source design and prototyping tool, created as an alternative to Adobe XD. It's tailored to empower designers, developers, and creative professionals to bring their ideas to life through an intuitive, feature-rich, and collaborative platform. Features
+The projects is built using react, with possibilities in the future for PWAS/React Native port.
 
 - Design and prototyping in one seamless tool
 - Vector-based graphics editing capabilities
